@@ -14,13 +14,13 @@ Water conservation is not a new topic and there is plenty of data to use. Below 
 **https://water.usgs.gov/watuse/**
 	-A repository of state data sets concerning water use
 	
-**http://www.data360.org/dsg.aspx?Data_Set_Group_Id=757 **
+**http://www.data360.org/dsg.aspx?Data_Set_Group_Id=757**
 	-Average personal water use by country
 	
 **https://learn.eartheasy.com/guides/45-ways-to-conserve-water-in-the-home-and-yard/**
 	-Various water conservation techniques and the amount of water they save
 	
-**https://www.nrdc.org/experts/tracy-quinn/how-can-you-reduce-your-water-footprint **
+**https://www.nrdc.org/experts/tracy-quinn/how-can-you-reduce-your-water-footprint**
 	-Water usage by activity and product
 	
 **https://knoema.com/atlas/topics/Water/datasets**
