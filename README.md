@@ -1,5 +1,5 @@
 # Final_Project_EdieGodwin
-My final project works and updates
+Here is a very broad, general overveiw of what I plan to do for my final project. I had trouble picking a topic but I think I found one that is both important to me and should lend itself well to different data visualizations: water conservation.
 # Final Project #
 I would like to detail how much water Americans use and how much water could be saved by using couple updated appliances. Even though decreasing water consumption seems daunting, I would like to show my reader that a change is needed and not as hard as they may have originally thought.
 ## The Story ##
