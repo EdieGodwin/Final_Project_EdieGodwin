@@ -13,13 +13,13 @@ Depending on the findings from the data I would like to sugegst that people eith
 To create compelling points and data visualizations I will pull from American Fact Finder. 
 
 **https://factfinder.census.gov/faces/tableservices/jsf/pages/productview.xhtml?pid=ACS_17_5YR_B25077&prodType=table**
--Median Home Value
+	-Median Home Value
 
 **https://factfinder.census.gov/faces/tableservices/jsf/pages/productview.xhtml?pid=ACS_17_5YR_S1901&prodType=table**
--Distribution of incomes (adjusted for inflation)
+	-Distribution of incomes (adjusted for inflation)
 
 **https://ucsur.pitt.edu/files/census/UCSUR_SF1_NeighborhoodProfiles_July2011.pdf**
--Demographic information 
+	-Demographic information 
 	
 ## Method and Medium ##
 Using colors from the Lawrenceville website, seen here: http://lvpgh.com/, I will create infographics and graphs using a mix of Excel, RawGraphs and Canva. I would like to create maps using ArcGis to show the variations in home values or incomes, whatever would be the most impactful on a map. Maps will be helpful because they will provide the reader with more context than would otherwise be possible.
