@@ -1,33 +1,28 @@
 # Final_Project_EdieGodwin
-Here is a very broad, general overveiw of what I plan to do for my final project. I had trouble picking a topic but I think I found one that is both important to me and should lend itself well to different data visualizations: water conservation.
+Here is a very broad, general overveiw of what I plan to do for my final project. I had trouble picking a topic but I think I found one that is both important to me and should lend itself well to different data visualizations: gentrification.
 # Final Project #
-I would like to detail how much water Americans use and how much water could be saved by using couple updated appliances. Even though decreasing water consumption seems daunting, I would like to show my reader that a change is needed and not as hard as they may have originally thought.
-## The Story ##
-Starting with how much water Americans use- possibly split into household and corporate water consumption- I will transition into showing water shortages across the US. This will create a sense of urgency and hopefully appeal to readers' emotions. I would like to detail how we waste water- from flooding fields to long showers- and simple steps that people can take to start conserving water. To end on a positive note I will show that little changes can make a big difference in a person's daily water consumption.
-## The Data ##
-To create compelling points and data visualizations I will pull from public data sets.
-Water conservation is not a new topic and there is plenty of data to use. Below are links to some of the resources that I have found.
+Gentrification is characterized by a low-income area beginning to conform to middle-class tastes. Generally gentrification brings increased property values and investment to a neighborhood. While this is not inherently bad, the connotation of gentrification focuses on what happens when it is done poorly. Without the proper policies in place, gentrification can lead to the residents of a neighborhood being pushed out to other low-income areas for middle-class (typically white) families to take their place.
 
-**https://catalog.data.gov/dataset?tags=water+use**
-	-A repository of state and federal data sets concerning water use
-	
-**https://water.usgs.gov/watuse/**
-	-A repository of state data sets concerning water use
-	
-**http://www.data360.org/dsg.aspx?Data_Set_Group_Id=757**
-	-Average personal water use by country
-	
-**https://learn.eartheasy.com/guides/45-ways-to-conserve-water-in-the-home-and-yard/**
-	-Various water conservation techniques and the amount of water they save
-	
-**https://www.nrdc.org/experts/tracy-quinn/how-can-you-reduce-your-water-footprint**
-	-Water usage by activity and product
-	
-**https://knoema.com/atlas/topics/Water/datasets**
-	-A repository of data sets concerning water use, water shortages, projections concerning water use, etc. 
+Here in Pittsburgh, residents often point to the Lawrenceville neighborhood as the poster-child for gentrification. The area was built by low-income, diverse, working families into a very interesting, eclectic neighborhood. In the last decade or so, it has been that unique vibe that attracted investment and interest to the neighborhood.
+
+I’m interested in seeing if Lawrenceville has been a victim of gentrification or if the city did a reasonably good job in protecting the citizens of Lawrenceville. I’ll do this by comparing census data from 2011 with the most recent data, 2017, for median home values, median incomes and demography. 
+## The Story ##
+Starting with what gentrification is and looks like and explaining the salience of the three metrics I'm looking at, I'll move into comparing data from 2011 to data from 2017 for zip codes 15201 and 15224. I would like to present some distributions and maps to show the differences between 2011 and 2017 Lawrenceville. If available, it would be interesting to see migration patterns of families who came to or left Lawrenceville, but that data may not be available.
+Depending on the findings from the data I would like to sugegst that people either look to Lawrenceville as an example or a cautionary tale. Gentrification doesn't always have to be bad, so there is a very real chance that locals just don’t like the recent changes to the neighborhood.  
+## The Data ##
+To create compelling points and data visualizations I will pull from American Fact Finder. 
+
+**https://factfinder.census.gov/faces/tableservices/jsf/pages/productview.xhtml?pid=ACS_17_5YR_B25077&prodType=table**
+-Median Home Value
+
+**https://factfinder.census.gov/faces/tableservices/jsf/pages/productview.xhtml?pid=ACS_17_5YR_S1901&prodType=table**
+-Distribution of incomes (adjusted for inflation)
+
+**https://ucsur.pitt.edu/files/census/UCSUR_SF1_NeighborhoodProfiles_July2011.pdf**
+-Demographic information 
 	
 ## Method and Medium ##
-Using a muted color scheme of greys and blues to take on a serious tone, I will create infographics and graphs using a mix of Excel, RawGraphs and Canva. I would like to create maps using ArcGis to show areas with water shortages and surpluses and maybe even a map of the US’s worst water offenders. Maps will be helpful because they will provide the reader with more context than would otherwise be possible.
+Using colors from the Lawrenceville website, seen here: http://lvpgh.com/, I will create infographics and graphs using a mix of Excel, RawGraphs and Canva. I would like to create maps using ArcGis to show the variations in home values or incomes, whatever would be the most impactful on a map. Maps will be helpful because they will provide the reader with more context than would otherwise be possible.
 I will present my project using Shorthand. Their smooth scrolling will be conducive to the flow of my story and the format will allow me to frame the story without having to touch a powerpoint 
 
 
