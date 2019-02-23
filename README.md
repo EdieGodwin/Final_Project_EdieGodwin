@@ -29,10 +29,10 @@ I will present my project using Shorthand. Their smooth scrolling will be conduc
 _Target Audience:_ Community Groups/ Citizen Action Orgs.
 _Identifying Individuals to Interview:_ A local community group meets at the public library on Saturdays and several Lawrenceville residents go to my gym. Both groups would be open to looking at and critiquing my planning documents.
 _Interview Script:_
-..What do you think the point of this graph/chart is?  
-..What tells you that (their response) is the point of the graph/chart?  
-..What tone is conveyed by the color palette used? What do these colors remind you of or make you feel?  
-..How would you use this graph/chart?  
+1.  What do you think the point of this graph/chart is?  
+2.  What tells you that (their response) is the point of the graph/chart?  
+3.  What tone is conveyed by the color palette used? What do these colors remind you of or make you feel?  
+4.  How would you use this graph/chart?  
  
 Findings
 I presented my sketches to four people and below I have summarized the responses that I got for each sketch.
