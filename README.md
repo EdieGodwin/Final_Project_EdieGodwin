@@ -35,24 +35,27 @@ _Interview Script:_
 4.  How would you use this graph/chart?  
 
 ## Story Board ##  
-![](https://scontent.fagc1-1.fna.fbcdn.net/v/t1.15752-9/52702695_325076335020297_8607014285366788096_n.jpg?_nc_cat=101&_nc_ht=scontent.fagc1-1.fna&oh=922bf9cfd5ace06adca6de9b5b62687a&oe=5D25D2FF)
+![](https://scontent.fagc1-1.fna.fbcdn.net/v/t1.15752-9/52702695_325076335020297_8607014285366788096_n.jpg?_nc_cat=101&_nc_ht=scontent.fagc1-1.fna&oh=922bf9cfd5ace06adca6de9b5b62687a&oe=5D25D2FF)  
 
 ## Findings ##  
-I presented my sketches to four people and below I have summarized the responses that I got for each sketch.  
+I presented my sketches (below) to four people and I have summarized the responses that I got for each sketch.  
 
 ### Median Household Income (2011 v. 2017) ###  
+![](https://scontent.fagc1-1.fna.fbcdn.net/v/t1.15752-9/52740097_579814135818081_2627625979119403008_n.jpg?_nc_cat=101&_nc_ht=scontent.fagc1-1.fna&oh=2d928418b774eefa3dfe0d6e8908eb99&oe=5D242C0F)  
 1.  Everyone who saw it understood that it was a comparison of median household income and that it had increased from 2011 to 2017.  
 2.  It had a “clear title” and “is a simple graph”  
 3.  The colors used gave it a positive feeling- influencing what people answered next:  
 4.  Most people said they would use this graph to show that Lawrenceville is doing better now than it was and that they might show this to potential commercial investors  
 
 ### Change in Demographic Composition from 2011 to 2017 ###
+![]((https://scontent.fagc1-2.fna.fbcdn.net/v/t1.15752-9/52654483_259027008351171_9163194502746210304_n.jpg?_nc_cat=111&_)  nc_ht=scontent.fagc1-2.fna&oh=8e713a3cd296dae300ab01b396ef447f&oe=5D264F15)  
 1.  People had to look at this one longer to understand what it is, but they all came to understand it on their own. (Some people would ask why it started in the center but then would see that it is a % change)  
 2.  Again, this one has a clear title, but most people wanted the demographic categories spelled out, not just represented by one or two letters.  
 3.  People liked the colors for this one because they made it very easy to distinguish one column from another.  
 4.  Half thought they might use this to give background and context for Lawrenceville, the other half was unsure of a specific way to use it but said they did think it could be useful.  
 
 ### Median Home Value (2011 v. 2017) ###
+![](https://scontent.fagc1-2.fna.fbcdn.net/v/t1.15752-9/52913791_375043333315424_3205811465734848512_n.jpg?_nc_cat=100&_nc_ht=scontent.fagc1-2.fna&oh=0dfbe1ec49cd098052a05c549852c7ba&oe=5D25A8DE)  
 1.  All respondents looked at this one the longest and were unsure of the conclusion they came to (even though it was correct, they weren’t confident in their answer)  
 2.  Again, respondents were unsure in their answer, telling me that the average person is not as comfortable reading a distribution as I assumed they would be.  
 3.  No real comment on tone, mostly that it looks cheerful.  
