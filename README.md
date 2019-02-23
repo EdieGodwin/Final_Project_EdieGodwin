@@ -33,7 +33,10 @@ _Interview Script:_
 2.  What tells you that (their response) is the point of the graph/chart?  
 3.  What tone is conveyed by the color palette used? What do these colors remind you of or make you feel?  
 4.  How would you use this graph/chart?  
- 
+
+## Story Board ##  
+![alt text](https://www.flickr.com/photos/146732798@N05/47189610121/in/dateposted-public/)
+
 ## Findings ##  
 I presented my sketches to four people and below I have summarized the responses that I got for each sketch.  
 
@@ -53,7 +56,7 @@ I presented my sketches to four people and below I have summarized the responses
 1.  All respondents looked at this one the longest and were unsure of the conclusion they came to (even though it was correct, they weren’t confident in their answer)  
 2.  Again, respondents were unsure in their answer, telling me that the average person is not as comfortable reading a distribution as I assumed they would be.  
 3.  No real comment on tone, mostly that it looks cheerful.  
-4.  eople were unsure of how to use this outside of a paper.  
+4.  People were unsure of how to use this outside of a paper.  
 
 ## Changes Implemented: ##  
 
@@ -62,5 +65,5 @@ Because we’re talking about gentrification and displacement of low-income fami
 ### Change in Demographic Composition from 2011 to 2017 ###  
 No changes made.  
 ### Median Home Value (2011 v. 2017) ###  
-This one I changed to be a bar graph, something that I think most people are more familiar with and can understand faster than they could the distribution.  
+This one I changed to be a bar graph, something that I think most people are more familiar with and can understand faster than they could the distributions.  
 
