@@ -48,7 +48,7 @@ I presented my sketches (below) to four people and I have summarized the respons
 4.  Most people said they would use this graph to show that Lawrenceville is doing better now than it was and that they might show this to potential commercial investors  
 
 ### Change in Demographic Composition from 2011 to 2017 ###
-![](https://scontent.fagc1-2.fna.fbcdn.net/v/t1.15752-9/52654483_259027008351171_9163194502746210304_n.jpg?_nc_cat=111&_)  nc_ht=scontent.fagc1-2.fna&oh=8e713a3cd296dae300ab01b396ef447f&oe=5D264F15)  
+![](https://scontent.fagc1-2.fna.fbcdn.net/v/t1.15752-9/52654483_259027008351171_9163194502746210304_n.jpg?_nc_cat=111&_nc_ht=scontent.fagc1-2.fna&oh=8e713a3cd296dae300ab01b396ef447f&oe=5D264F15)   
 1.  People had to look at this one longer to understand what it is, but they all came to understand it on their own. (Some people would ask why it started in the center but then would see that it is a % change)  
 2.  Again, this one has a clear title, but most people wanted the demographic categories spelled out, not just represented by one or two letters.  
 3.  People liked the colors for this one because they made it very easy to distinguish one column from another.  
