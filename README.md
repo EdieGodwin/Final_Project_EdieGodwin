@@ -35,7 +35,7 @@ _Interview Script:_
 4.  How would you use this graph/chart?  
 
 ## Story Board ##  
-![alt text](https://www.flickr.com/photos/146732798@N05/47189610121/in/dateposted-public/)
+![](https://www.flickr.com/photos/146732798@N05/47189610121/in/dateposted-public/)
 
 ## Findings ##  
 I presented my sketches to four people and below I have summarized the responses that I got for each sketch.  
