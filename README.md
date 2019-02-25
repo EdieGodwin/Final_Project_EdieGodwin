@@ -74,6 +74,26 @@ This one I changed to be a bar graph, something that I think most people are mor
 
 ## Part Three ##  
 
+### Planning and Process ###  
+## Data ##  
+Step one was finding public data sets. Using census data for zip code 15201 (Lawrenceville) from American Fact Finder, I was able to access enough data to create a compelling argument and visualizations.  
+
+I will be looking at demographic, income and housing data from 2000, 2010 and 2017 5 year estimates.   
+
+## Planning  ##
+When thinking about who the audience for this data is, I decided that I would want to present this data to community groups and local community leaders. 
+The two personas I used to create my content I called Beverly and Ben.   
+
+_Beverly_ : older, in her 40's to 50's, and cares a lot about her neighborhood. She joined a community action group to participate and steer her community. She has been out of school for a long time and academic jargon is frustrating for her. She doesn't want to spend very long looking at complicated graphs or graphics but she understands the importance of data in decision making.  
+
+_Ben_ : younger than Beverly, 30's, but just as dedicated to his neighborhood. He grew up here and is in a position of power or influence. He has a Bachelors and is not uncomfortable with academic style papers but does prefer easier reads. He is busy and also doesn't want to spend a lot of time having to figure out graphics.   
+
+
+## Creating The Visualizations ##
+Taking these personas into consideration, I knew that whatever data visualizations I made needed to be fairly common, so that people from various backgrounds could still understand and absorb the information easily. This idea was echoed in the responses I got from interviews about my data sketches. People generally understood bar graphs, but the home value distribution took people longer to decipher and they were less likely to understand what it was.
+
+Along with changing the kinds of graphs, I also had to change my color scheme to reflect more of the serious tone of the material. The later versions have more blues and an orange accent, the colors of Lawrenceville that I got from their website.
+
+A detailed description of the planning and preparation, including initial data sketches and responses to the interview, that went into this project can be found here. 
+
 https://carnegiemellon.shorthandstories.com/LawrencevilleGentrification/index.html
-
-
