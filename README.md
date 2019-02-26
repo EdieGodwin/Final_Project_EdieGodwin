@@ -76,9 +76,11 @@ This one I changed to be a bar graph, something that I think most people are mor
 
 ### Planning and Process ###  
 ## Data ##  
-Step one was finding public data sets. Using census data for zip code 15201 (Lawrenceville) from American Fact Finder, I was able to access enough data to create a compelling argument and visualizations.  
+Step one was finding public data sets. Using census data for zip code 15201 (Lawrenceville) from American Fact Finder, I was able to access enough data to have substantial, meaningful findings. 
 
-I will be looking at demographic, income and housing data from 2000, 2010 and 2017 5 year estimates.   
+I looked at demographic, income and housing data from 2000, 2010 and 2017 5 year estimates. This will let me identify the long term possible effects of gentrification in Lawrenceville. I intended to create a map of home values but realized that I would need parcel-level data about the value of the homes in Lawrenceville, which I could not obtain.
+
+The data that I did get from American Fact Finder was good for comparing the incomes, home values and demographics from year to year. The visualizations I made are fitting for my intended audience because they are easy to read and fairly common but they aren't unique. I felt that some of the visualizations available to me on datawrapper or Raw Graphs would be too foreign to my audience and therefore frustrating.This idea was echoed in the responses I got from interviews about my data sketches. People generally understood bar graphs, but the home value distribution took people longer to decipher and they were less likely to understand what it was. I want my data to be useful and peple won't use data that they feel is hard to read.   
 
 ## Planning  ##
 When thinking about who the audience for this data is, I decided that I would want to present this data to community groups and local community leaders. 
@@ -88,12 +90,14 @@ _Beverly_ : older, in her 40's to 50's, and cares a lot about her neighborhood. 
 
 _Ben_ : younger than Beverly, 30's, but just as dedicated to his neighborhood. He grew up here and is in a position of power or influence. He has a Bachelors and is not uncomfortable with academic style papers but does prefer easier reads. He is busy and also doesn't want to spend a lot of time having to figure out graphics.   
 
+I chose Shorthand to present my data because it is an attractive, public platform. If I presented this to a group they would have instant access to the whole presentation.
 
 ## Creating The Visualizations ##
-Taking these personas into consideration, I knew that whatever data visualizations I made needed to be fairly common, so that people from various backgrounds could still understand and absorb the information easily. This idea was echoed in the responses I got from interviews about my data sketches. People generally understood bar graphs, but the home value distribution took people longer to decipher and they were less likely to understand what it was.
+I changed the types of graphs that I planned on using after the feedback I got. Along with changing the kinds of graphs, I had to change my color schemes to reflect more of the serious tone of the material. The later versions have more blues and an orange accent, the colors of Lawrenceville that I got from their website (http://lvpgh.com/).
 
-Along with changing the kinds of graphs, I also had to change my color scheme to reflect more of the serious tone of the material. The later versions have more blues and an orange accent, the colors of Lawrenceville that I got from their website.
+The end result can be found here:  
+## https://carnegiemellon.shorthandstories.com/LawrencevilleGentrification/index.html  ##
 
-A detailed description of the planning and preparation, including initial data sketches and responses to the interview, that went into this project can be found here. 
+If I were to do this again I would probably learn some HTML to make Shorthand work for me a little better. It is more customizable if you understand and can use HTML. As it is, it has good functionality but could be better.
+I also would add some data sets like rental prices or even data from some of the surrounding areas like Friendship or Bloomfield. It would have been interesting to see if there is a significant effect on other neighborhoods. 
 
-https://carnegiemellon.shorthandstories.com/LawrencevilleGentrification/index.html
