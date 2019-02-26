@@ -95,9 +95,12 @@ I chose Shorthand to present my data because it is an attractive, public platfor
 ## Creating The Visualizations ##
 I changed the types of graphs that I planned on using after the feedback I got. Along with changing the kinds of graphs, I had to change my color schemes to reflect more of the serious tone of the material. The later versions have more blues and an orange accent, the colors of Lawrenceville that I got from their website (http://lvpgh.com/).
 
-The end result can be found here:  
-## https://carnegiemellon.shorthandstories.com/LawrencevilleGentrification/index.html  ##
-
+## The Outcome ##
+Findings can be found here:  
+## https://carnegiemellon.shorthandstories.com/LawrencevilleGentrification/index.html  ##  
+ 
 If I were to do this again I would probably learn some HTML to make Shorthand work for me a little better. It is more customizable if you understand and can use HTML. As it is, it has good functionality but could be better.
-I also would add some data sets like rental prices or even data from some of the surrounding areas like Friendship or Bloomfield. It would have been interesting to see if there is a significant effect on other neighborhoods. 
+I also would add some data sets like rental prices, numebr of homes, and possibly percentage of abandoned properties in the area. All of these would have helped paint a picture of just how gentrification had changed the neighborhood. It also would have been interesting to collect data from some of the surrounding areas like Friendship or Bloomfield, to see if there was a significant effect on other neighborhoods.   
+
+The data that I do have seems to suggest that gentrification in Lawrenceville displaced some families and has left the neighborhood more expensive than it was pre-2009. Home values and incomes have gone up but total population and the percentage of non-white citizens has decreased. Some people say that administration did a good job of protecting citizens, but it seems pretty clear that low-income citizens were pushed further out of the city. I end on a call to action to encourage people to get involved in their neighborhoods. Often times the only advocates a neighborhood has are its citizens, so it helps to take a proactive stance. If citizens start demanding preotections from gentrification before it happens, they will surley be better off. 
 
